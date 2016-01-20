@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://naeimjahanifar.ir" # the base hostname & protocol for your site 
 
 # User settings
-username: نعیم جهانی فر 
+username: naeim jahanifar
 user_description: Anon Developer at Lorem Ipsum Dolor
 user_title: خوش آمدید...
 email: naeim.jahanifar@gmail.com
@@ -29,13 +29,13 @@ compress_html:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: صفحه اصلی 
     url: /
-  - title: Series
+  - title: مجموعه ها 
     url: /series
-  - title: Tags
+  - title: برچسب ها 
     url: /tags
-  - title: About Me
+  - title: درباره من  
     url: /about
 
 # exclude my node related stuff

@@ -4,14 +4,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://naeimjahanifar.ir" # the base hostname & protocol for your site 
 
 # User settings
-username: Lorem Ipsum
+username: naeim jahanifar
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+user_title: خوش آمدید...
+email: naeim.jahanifar@gmail.com
+twitter_username: naeim.jahanifar
+github_username:  naeim.jahanifar
+gplus_username:  naeim.jahanifar
+disqus_username: naeim.jahanifar
 
 # Build settings
 markdown: kramdown
